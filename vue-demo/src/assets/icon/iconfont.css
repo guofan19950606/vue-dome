@@ -1,0 +1,25 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1557803197936'); /* IE9 */
+  src: url('iconfont.eot?t=1557803197936#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAQMAAsAAAAACCwAAAO/AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqEDINAATYCJAMMCwgABCAFhG0HPhsOB8gOJaHAwADgoQBgBNmwzd7d1+pAlSrxdA3qg0KiUAYFxiAUii4sqgnTNZr/eU//ZunO60tnZG4msBycZF2dZoAe+UXxC6DPczm96QU2v2W5jDVpjKVHvQDjgALaG6NAjsMCCchzIN66zPsEmub5QvbTcwXAVRjLAnEmo2uAm/IoNa2hLlRL9haIS9BXT2N6F4EL//vxKzi4IKlkMNYenabVQ+KH1fNBtPd/r3KXAO14IXCHyNgACnFSGjmGhvkNqKZi4dTXVhUhjZX6/x9fo9qqK/3jJaIKRnMbrMCVnJTWlhN8Dqphdf6HqKKDKwDPYMfdFfW+JccmEzVIDh9bMKRv/fhagGasPDJxyLF1/PzhzQhvMbFq18QerwP2vN6NB89W8aA5W7jCe/1ui3kLliy0XngqbpPt/MUWvfNWLykfx7Dx8NPbT/hssF64EEH67pBLMxxv3hTAoo38eWstFln2zvfYxTOciFjYif/eS9ZbrV+CILdfRM67bsUdugWwenPLYdFNrEMoKBeLOgTCCpG4mS/0kXiLCZoQeEt9RPzia0SgKeVGmfoRfnqPDh7p6ZuX47OeLbcljL47PAx5aDDNiLBd/nGWKpvA2yMSdFZnqwx695ts0AQddLu+2SKdj7RfLd5rZocXlv12kE9dhMN0BPIl1LUyKVcUyKWlJupBKPuDnaIDko7jXujLg/XCRXGY9odnVdXWKxfhOvcrIm4eFxhKvomCrfjuFcEf3Jyjis8cyLdNBf1rt8PE/HmeA4f48+YHb+/yxnl1H+bPn7/Tbf+vX5Z5pitQzVqvhHkmJkM1wP+qPAsV+MVHeTvq9mN/4/C1bWuVcexXLo8D8A5FD4j9ryrQ3qd+29HgN2pb9hRVb3hzkTW2Ri9l58B9SSqoeKuf1w5Dj/vbJq2FhG0SI6mZQ1a3QBZ2AxUtm6iq20LTuozDLSMMVJTpwJohgtC3BUnXE7K+S2RhH6Fi6i2q+oGiaRbmZ7YshQxLYcgalqzHa9twWZ1aRVl+Fgtai0m6SVHDJPW+SEQyOlkKD/IPzJYySBXJjLFB10wHsyyFU4xaiaeTx0iFQo1rGHUjWcf6N7CsJjoggCp7kX+dWgmYPQxSDRapHq5WG5xMHTUVyh3MwnKfL0aiNVGowdRwKooiJIaObHRcEH+BLcgMi6oV51qe0WlGC8ZiUXAUhpoSLp2ESAozr4bTlM9qRKrD8tfQI6sRLYDqR7W1+M9vUz7fIWgy1ubQQ1CEA40zmYrWNZBOFVfbVKPSpNwAAA==') format('woff2'),
+  url('iconfont.woff?t=1557803197936') format('woff'),
+  url('iconfont.ttf?t=1557803197936') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1557803197936#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-lingsheng:before {
+  content: "\e616";
+}
+
+.icon-quanping:before {
+  content: "\e784";
+}
+
